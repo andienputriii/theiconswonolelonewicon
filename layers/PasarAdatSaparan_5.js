@@ -1,0 +1,1 @@
+var json_PasarAdatSaparan_5 = {"type":"FeatureCollection","name":"PasarAdatSaparan_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"no":1.0,"Icon":"Pasar Adat Saparan","X":110.44972,"Y":-7.69501},"geometry":{"type":"Point","coordinates":[110.449716,-7.695012]}}]}

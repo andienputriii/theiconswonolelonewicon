@@ -1,0 +1,1 @@
+var json_RumahTiban_6 = {"type":"FeatureCollection","name":"RumahTiban_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"no":1.0,"Icon":"Rumah Tiban Ki Ageng Wonolelo","X":110.45169,"Y":-7.69591},"geometry":{"type":"Point","coordinates":[110.451687,-7.695905]}}]}

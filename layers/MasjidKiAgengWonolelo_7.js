@@ -1,0 +1,1 @@
+var json_MasjidKiAgengWonolelo_7 = {"type":"FeatureCollection","name":"MasjidKiAgengWonolelo_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"no":1.0,"Icon":"Masjid Ki Ageng Wonolelo","X":110.45144,"Y":-7.69609},"geometry":{"type":"Point","coordinates":[110.451435,-7.696088]}}]}
